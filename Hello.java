@@ -5,8 +5,8 @@
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello World");
-        System.out.println("My name is Mr Gross");
-        System.out.println("I am married and we have 8 kids between us.");
+        System.out.println("My name is Mr Gross your teacher");
+        System.out.println("I am married to Elaine and we have 8 kids between us.");
         String dad="Bud";
         String mom="Patty";
         System.out.println("My parents names are "+dad+" and "+mom);
